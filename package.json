@@ -9,7 +9,11 @@
     "Factorial": "node ejercicio2.js",
     "Array": "node ejercicio3.js",
     "Palabras": "node ejercicio4.js",
-    "Radio": "node ejercicio5.js"
+    "Radio": "node ejercicio5.js",
+    "Pares": "node ejercicio6.js",
+    "Palindromos": "node ejercicio7.js",
+    "Impuestos": "node ejercicio8.js",
+    "Multiplicar": "node ejercicio9.js"
   },
   "keywords": [],
   "author": "",
